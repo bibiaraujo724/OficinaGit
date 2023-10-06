@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\GitEGitHub\\GitEGitHub.csproj": {}
+    "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\OficinaGit\\GitEGitHub\\GitEGitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\GitEGitHub\\GitEGitHub.csproj": {
+    "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\OficinaGit\\GitEGitHub\\GitEGitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\GitEGitHub\\GitEGitHub.csproj",
+        "projectUniqueName": "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\OficinaGit\\GitEGitHub\\GitEGitHub.csproj",
         "projectName": "GitEGitHub",
-        "projectPath": "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\GitEGitHub\\GitEGitHub.csproj",
+        "projectPath": "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\OficinaGit\\GitEGitHub\\GitEGitHub.csproj",
         "packagesPath": "C:\\Users\\2023102020017\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\GitEGitHub\\obj\\",
+        "outputPath": "C:\\Users\\2023102020017\\Desktop\\Git\\GitEGitHub\\OficinaGit\\GitEGitHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
