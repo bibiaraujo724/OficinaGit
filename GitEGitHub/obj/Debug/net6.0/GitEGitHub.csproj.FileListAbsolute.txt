@@ -1,0 +1,15 @@
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\bin\Debug\net6.0\GitEGitHub.exe
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\bin\Debug\net6.0\GitEGitHub.deps.json
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\bin\Debug\net6.0\GitEGitHub.runtimeconfig.json
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\bin\Debug\net6.0\GitEGitHub.dll
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\bin\Debug\net6.0\GitEGitHub.pdb
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\GitEGitHub.csproj.AssemblyReference.cache
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\GitEGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\GitEGitHub.AssemblyInfoInputs.cache
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\GitEGitHub.AssemblyInfo.cs
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\GitEGitHub.csproj.CoreCompileInputs.cache
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\GitEGitHub.dll
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\refint\GitEGitHub.dll
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\GitEGitHub.pdb
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\GitEGitHub.genruntimeconfig.cache
+C:\Users\2023102020017\Desktop\Git\GitEGitHub\GitEGitHub\obj\Debug\net6.0\ref\GitEGitHub.dll
